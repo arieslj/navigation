@@ -114,9 +114,6 @@ content:
           url: http://www.uigreat.com/
     - name: 发现产品
       sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
         - name: 少数派
           description: 高品质数字消费指南
           url: https://sspai.com/
