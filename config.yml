@@ -156,8 +156,3 @@ content:
         - name: 菜鸟教程
           description: 入门教程合集
           url: https://www.runoob.com/
-    - name: 有意思的网站
-      sites:
-        - name: 秘密花园
-          description: 1999 年建立的网站，远古网站
-          url: http://www.yini.org/
