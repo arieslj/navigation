@@ -33,9 +33,9 @@ content:
         - name: V2EX
           description: 技术论坛，创意工作者们的社区
           url: https://www.v2ex.com/
-        - name: JSON Editor Online
-          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
-          url: https://jsoneditoronline.org/
+        - name: 115网盘
+          description: 好用网盘
+          url: https://115.com/
         - name: Excalidraw
           description: 流程图工具，可以画手写风格的图表
           url: https://excalidraw.com/
