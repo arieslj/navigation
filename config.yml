@@ -1,77 +1,74 @@
 # title of website
-title: navigation
+title: 我的导航站
 
 # description of website
-description: arieslj's navigation site
+description: x1ah's navigation site
 
 # favicon of website
-favicon: "https://github.com/arieslj.png?size=40"
+favicon: "https://github.com/x1ah.png?size=40"
 
 # your website url
-url: https://arieslj.github.io/navigation/
+url: https://x1ah.github.io/nav/
 
 # github profile url
-github: "https://github.com/arieslj"
+github: https://github.com/x1ah/nav
 
 # footer message
-footer: © 2021-2021 @arieslj
+footer: © 2021-2021 @x1ah
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+google_analytics: G-EXE1PJ8CR2
 
 content:
   categories:
     - name: 常用推荐
       sites:
-        - name: Baidu
-          description: 百度一下，啥都知道。
-          url: https://www.baidu.com/
-        - name: 115网盘
-          description: Maybe最好用的网盘。
-          url: https://115.com/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 尚德网站
+        - name: GitHub
+          description: GitHub
+          url: https://github.com/
+        - name: V2EX
+          description: 技术论坛，创意工作者们的社区
+          url: https://www.v2ex.com/
+        - name: JSON Editor Online
+          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
+          url: https://jsoneditoronline.org/
+        - name: Excalidraw
+          description: 流程图工具，可以画手写风格的图表
+          url: https://excalidraw.com/
+        - name: Lobsters
+          description: 技术论坛
+          url: https://lobste.rs/
+        - name: 斗鱼
+          description: 直播平台
+          url: https://www.douyu.com/
+        - name: 小霸王
+          description: 在线小霸王游戏机
+          url: https://www.yikm.net/
+        - name: 需要我帮你百度一下吗
+          description: 需要我帮你百度一下吗生成器
+          url: https://when.run/lmbdfy.html
+        - name: Google Analytics
+          description: Google Analytics 分析
+          url: https://analytics.google.com/analytics/web/
+    - name: 技术工具
       sites:
-        - name: 鹿由
-          description: 企业OA平台
-          url: https://im.sunlands.com/
-        - name: 大鱼
-          description: 难用的平台
-          url: https://bf.ministudy.com/
-        - name: 人力系统
-          description: 尚德人力系统
-          url: https://ehr.sunlands.com/
-   - name: 论坛社区
+        - name: misaka ping
+          description: 多点 Ping 工具
+          url: https://ping.sx/ping
+        - name: JSON Editor Online
+          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
+          url: https://jsoneditoronline.org/
+        - name: Excalidraw
+          description: 流程图工具，可以画手写风格的图表
+          url: https://excalidraw.com/
+        - name: ip.sb
+          description: IP 获取
+          url: https://ip.sb/
+    - name: 论坛社区
       sites:
         - name: 虎扑步行街
           description: 虎扑步行街热门话题，每日话题
@@ -156,3 +153,8 @@ content:
         - name: 菜鸟教程
           description: 入门教程合集
           url: https://www.runoob.com/
+    - name: 有意思的网站
+      sites:
+        - name: 秘密花园
+          description: 1999 年建立的网站，远古网站
+          url: http://www.yini.org/
