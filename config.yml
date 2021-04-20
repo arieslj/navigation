@@ -1,17 +1,17 @@
 # title of website
-title: 我的导航站
+title: 没想好名字
 
 # description of website
-description: x1ah's navigation site
+description: arieslj's navigation site
 
 # favicon of website
-favicon: "https://github.com/x1ah.png?size=40"
+favicon: "https://github.com/arieslj.png?size=40"
 
 # your website url
-url: https://x1ah.github.io/nav/
+url: https://arieslj.github.io/nav/
 
 # github profile url
-github: https://github.com/x1ah/nav
+github: https://github.com/arieslj/nav
 
 # footer message
 footer: © 2021-2021 @x1ah
@@ -56,18 +56,18 @@ content:
           url: https://analytics.google.com/analytics/web/
     - name: 技术工具
       sites:
-        - name: misaka ping
-          description: 多点 Ping 工具
-          url: https://ping.sx/ping
-        - name: JSON Editor Online
-          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
-          url: https://jsoneditoronline.org/
-        - name: Excalidraw
-          description: 流程图工具，可以画手写风格的图表
-          url: https://excalidraw.com/
-        - name: ip.sb
-          description: IP 获取
-          url: https://ip.sb/
+        - name: 鹿由
+          description: 尚德企业OA
+          url: https://im.sunlands.com
+        - name: EHR
+          description: 尚德人力系统
+          url: https://ehr.sunlands.com
+        - name: 利维坦
+          description: 傻逼系统
+          url: https://bf.sunlands.com/opportunity
+        - name: 大鱼
+          description: 贼难用的系统
+          url: https://bf.ministudy.com/exception/SOP403
     - name: 论坛社区
       sites:
         - name: 虎扑步行街
